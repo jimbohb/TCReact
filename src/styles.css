@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table.main {
+  width: 100%;
+}
+
+th.TreeView,
+td.TreeView {
+  background-color: rgb(237, 226, 225);
+  width: 50%;
+}
+
+th.TestCaseView,
+td.TestCaseView {
+  background-color: rgb(229, 244, 243);
+}
